@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **kajiazadali76@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zw-Cvn1BZDVkbgNQ9QL3oE6AWyysG2igWzjI7t1VFrw/edit?usp=sharing](https://docs.google.com/document/d/1zw-Cvn1BZDVkbgNQ9QL3oE6AWyysG2igWzjI7t1VFrw/edit?usp=sharing)
-
+- 📄 Know about my experiences [Resume](https://turquoise-bamby-93.tiiny.site/
+)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kajiazadali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kajiazadali1" height="30" width="40" /></a>
