@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **JavaScript , React, Node js , c++ , Java**
+- 💬 Ask me about **JavaScript , React, Node js , c++ , Java TypeScript**
 
 - 📫 How to reach me **kajiazadali76@gmail.com**
 
