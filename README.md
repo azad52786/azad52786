@@ -18,29 +18,97 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="600">
+</div>
 
-Final-year B.Tech student majoring in **Computer Science and Engineering** at Budge Budge Institute of Technology. Intermediate-level **MERN Stack Developer** with a solid grasp of Data Structures, Algorithms, and OOP concepts. Proficient in **C++** and **JavaScript** with moderate knowledge of **Java**. Experienced in full-stack development and eager to contribute to impactful software projects.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Education**: B.Tech CSE (CGPA: 8.33) | Budge Budge Institute of Technology  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"> **Currently Learning**: Advanced Full-Stack Development & System Design  
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20"> **Coding Platforms**: 1000+ problems solved on LeetCode | Max Rating: 1730  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="20"> **Ask me about**: JavaScript, React, Node.js, C++, Java, Data Structures & Algorithms  
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48b55.gif" width="20"> **Reach me at**: kajiazadali76@gmail.com  
-<img src="https://user-images.githubusercontent.com/74038190/212284152-8b0248ac-30bb-41e3-9cbb-8d0dfdd5e027.gif" width="20"> **Location**: Kolkata, West Bengal, India  
-<img src="https://user-images.githubusercontent.com/74038190/212284161-3bf17146-315a-4124-b793-4ab688350942.gif" width="20"> **Resume**: [View My Resume](https://turquoise-bamby-93.tiiny.site/)nter">Hi 👋, I'm Kaji Azad Ali</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" align="left">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azad52786&label=Profile%20views&color=0e75b6&style=flat" alt="azad52786" /> </p>
+### 🚀 **Who Am I?**
 
-- 🌱 I’m currently learning **Computer Science**
+Final-year **B.Tech student** majoring in **Computer Science and Engineering** at Budge Budge Institute of Technology. Intermediate-level **MERN Stack Developer** with a solid grasp of Data Structures, Algorithms, and OOP concepts. Proficient in **C++** and **JavaScript** with moderate knowledge of **Java**. Experienced in full-stack development and eager to contribute to impactful software projects.
 
-- 💬 Ask me about **JavaScript , React, Node js , c++ , Java , TypeScript**
+<br>
 
-- 📫 How to reach me **kajiazadali76@gmail.com**
+### 📋 **Quick Facts**
 
-- 📄 Know about my experiences [Resume](https://turquoise-bamby-93.tiiny.site/
-)
+<table>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"></td>
+<td><strong>Education</strong></td>
+<td>B.Tech CSE (CGPA: 8.33) | Budge Budge Institute of Technology</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"></td>
+<td><strong>Currently Learning</strong></td>
+<td>Advanced Full-Stack Development & System Design</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"></td>
+<td><strong>Coding Platforms</strong></td>
+<td>1000+ problems solved on LeetCode | Max Rating: 1730</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"></td>
+<td><strong>Ask me about</strong></td>
+<td>JavaScript, React, Node.js, C++, Java, DSA</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48b55.gif" width="25"></td>
+<td><strong>Reach me at</strong></td>
+<td><a href="mailto:kajiazadali76@gmail.com">kajiazadali76@gmail.com</a></td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284152-8b0248ac-30bb-41e3-9cbb-8d0dfdd5e027.gif" width="25"></td>
+<td><strong>Location</strong></td>
+<td>Kolkata, West Bengal, India</td>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284161-3bf17146-315a-4124-b793-4ab688350942.gif" width="25"></td>
+<td><strong>Resume</strong></td>
+<td><a href="https://turquoise-bamby-93.tiiny.site/" target="_blank">📄 View My Resume</a></td>
+</tr>
+</table>
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+
+<br><br>
+
+### 🎯 **Current Focus**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Development-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Design-green?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Competitive-Programming-orange?style=for-the-badge&logo=codechef&logoColor=white" />
+</div>
+
+<br>
+
+### 🏆 **Achievements**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1000+ Problems-yellow?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rating-1730+-red?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-8.33-brightgreen?style=for-the-badge&logo=academia&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+</div>
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
