@@ -64,7 +64,7 @@ Final-year **B.Tech student** majoring in **Computer Science and Engineering** a
 <tr>
 <td><img src="https://user-images.githubusercontent.com/74038190/212284161-3bf17146-315a-4124-b793-4ab688350942.gif" width="25"></td>
 <td><strong>Resume</strong></td>
-<td><a href="https://turquoise-bamby-93.tiiny.site/](https://drive.google.com/file/d/1C_Kq-B35im-dJfeM4IxwldtvREra1dh9/view?usp=sharing" target="_blank">📄 View My Resume</a></td>
+<td><a href="https://drive.google.com/file/d/1C_Kq-B35im-dJfeM4IxwldtvREra1dh9/view?usp=sharing" target="_blank">📄 View My Resume</a></td>
 </tr>
 </table>
 
