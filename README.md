@@ -1,7 +1,5 @@
 <div align="center">
-  <img s<img src="https://user-images.githubusercontent.com/74038190/212284161-3bf17146-315a-4124-b793-4ab688350942.gif" width="20"> **Resume**: [View My Resume](https://turquoise-bamby-93.tiiny.site/)
-
----adme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaji+Azad+Ali;Aspiring+Software+Engineer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%8F%86;Final-year+B.Tech+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaji+Azad+Ali;Aspiring+Software+Engineer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%8F%86;Final-year+B.Tech+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 <div align="center">
