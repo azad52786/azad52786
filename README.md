@@ -18,15 +18,9 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="600">
-</div>
-
 <table>
 <tr>
 <td width="60%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" align="left">
 
 ### 🚀 **Who Am I?**
 
@@ -102,14 +96,6 @@ Final-year **B.Tech student** majoring in **Computer Science and Engineering** a
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-</div>
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -201,8 +187,6 @@ React • Redux • TMDB API • Tailwind • Webpack
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 </div>
 
@@ -210,44 +194,7 @@ React • Redux • TMDB API • Tailwind • Webpack
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" /><br/>
-        <b>MERN Stack Bootcamp</b><br/>
-        <sub>Codehelp (July 2025)</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" /><br/>
-        <b>Data Structures & Algorithms</b><br/>
-        <sub>Infosys (June 2023)</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" /><br/>
-        <b>Database Management Systems</b><br/>
-        <sub>Infosys (June 2023)</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" /><br/>
-        <b>Java Programming</b><br/>
-        <sub>Infosys (October 2024)</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect with Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400">
-</div>
 
 <p align="center">
 <a href="https://linkedin.com/in/kaji-azad-ali-4bb706249/" target="_blank">
@@ -270,23 +217,12 @@ React • Redux • TMDB API • Tailwind • Webpack
 </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48b55.gif" width="20">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20">
-  <img src="https://user-images.githubusercontent.com/74038190/212284152-8b0248ac-30bb-41e3-9cbb-8d0dfdd5e027.gif" width="20">
-  <img src="https://user-images.githubusercontent.com/74038190/212284161-3bf17146-315a-4124-b793-4ab688350942.gif" width="20">
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30" /> Technical Skills
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
-</div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" /> Programming Languages
 <p align="center">
@@ -303,23 +239,11 @@ React • Redux • TMDB API • Tailwind • Webpack
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,firebase,webpack,figma,linux&theme=dark" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Statistics
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
 
 <table align="center">
 <tr border="none">
@@ -355,9 +279,6 @@ React • Redux • TMDB API • Tailwind • Webpack
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> LeetCode Statistics
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
-</div>
 
 <div align="center">
   <a href="https://leetcode.com/azad786" target="_blank">
