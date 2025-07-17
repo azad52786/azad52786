@@ -64,7 +64,7 @@ Final-year **B.Tech student** majoring in **Computer Science and Engineering** a
 <tr>
 <td><img src="https://user-images.githubusercontent.com/74038190/212284161-3bf17146-315a-4124-b793-4ab688350942.gif" width="25"></td>
 <td><strong>Resume</strong></td>
-<td><a href="https://drive.google.com/file/d/1C_Kq-B35im-dJfeM4IxwldtvREra1dh9/view?usp=sharing" target="_blank">📄 View My Resume</a></td>
+<td><a href="https://turquoise-bamby-93.tiiny.site/" target="_blank">📄 View My Resume</a></td>
 </tr>
 </table>
 
@@ -99,7 +99,7 @@ Final-year **B.Tech student** majoring in **Computer Science and Engineering** a
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Featured Projects
+<!-- ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Featured Projects
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -164,7 +164,7 @@ React • Redux • TMDB API • Tailwind • Webpack
 
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
